@@ -1,4 +1,7 @@
 # EchoTranslate-Text2Speech-Streamlit
+---
+## Streamlit live app link : https://echotranslate-text2speech-app-xja4cmq8bpq9sdm5vvoouw.streamlit.app
+---
 ## 🌐 EchoTranslate-Text2Speech
 
 **EchoTranslate-Text2Speech** is a modern **multilingual translation web app** built using **Streamlit** that translates text into multiple languages and converts the translated text into **speech (Text-to-Speech)**.  
