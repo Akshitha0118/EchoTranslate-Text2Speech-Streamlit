@@ -8,7 +8,7 @@ import base64
 # ---------------------------------------------
 # READ LANGUAGE DATASET
 # ---------------------------------------------
-df = pd.read_csv(r'C:\Users\Admin\Desktop\multi lang trasnlate\language.csv')
+df = pd.read_csv('language.csv')
 df.dropna(inplace=True)
 
 lang = df['name'].to_list()
@@ -137,3 +137,4 @@ if inputtext.strip():
 
     except Exception as e:
         st.error(f"❌ Error: {e}")
+
